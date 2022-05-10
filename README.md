@@ -1,0 +1,2 @@
+Hello! I am @tornadoman625, and my name is Noah Moorhouse (feel free to add me on LinkedIn!). 
+I have a degree in Information Technology and am currently pursuing a degree in Cyber Security at the University of Cincinnati, as well as an academic minor in music at the University of Cincinnati, College Conservatory of Music. One of my hobbies is Music, and the integration of music with technology. I am comfortable with writing code in Java and C#, as well as some Java Script.
